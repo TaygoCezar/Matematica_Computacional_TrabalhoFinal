@@ -8,12 +8,20 @@ Usar o pacote de instalação [pip](https://pip.pypa.io/en/stable/) para instala
 
 ```bash
 pip install pulp
+pip install numpy
+pip install matplotlib
+pip install pandas
 ```
 
 ## Uso
+
 O programa pode ser rodado em nuvem via google colab ou utilizando alguma interface jupyter like que consiga rodar localmente o arquivo [NRA.ipynb](NRA.ipynb)
 
-
-
 ## Divisão de Responsabilidades
-Todos 
+
+Todos os membros participaram ativamente do desenvolvimento geral do artigo.
+- Codificação do AG: Arthur e Taygo
+- Codificação da PLI: Arthur e Itallo
+- Codificação dos gráficos: Itallo e Taygo
+
+Demais decisões de implementação foram decididas e desenvolvidas em conjunto.
